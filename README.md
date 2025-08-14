@@ -1,4 +1,4 @@
-# URL Shortener – 22R11A6768
+# URL Shortener 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
